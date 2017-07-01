@@ -4,8 +4,8 @@
              xmlns:local="clr-namespace:App1"
              x:Class="App1.MainPage">
     <local:ResponsiveContent.LabelTitle>
-        <local:LabelTitle.Value>
+        <local:LabelTitle.Text>
             {Binding Test}
-        </local:LabelTitle.Value>
+        </local:LabelTitle.Text>
     </local:ResponsiveContent.LabelTitle>
 </local:ResponsiveContent>
